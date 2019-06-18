@@ -1,1 +1,2 @@
 This tuorial is for Git beginners
+Git is easy to learn an good going.
