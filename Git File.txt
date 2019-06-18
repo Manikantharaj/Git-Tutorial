@@ -1,1 +1,3 @@
-This tuorial is for Git beginners
+This tutorial is for Git beginners
+
+Gitty guys
